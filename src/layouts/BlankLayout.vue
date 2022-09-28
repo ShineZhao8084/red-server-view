@@ -1,10 +1,11 @@
 <template>
-  gw-approve-follow
+  <router-view />
 </template>
 
 <script>
+
 export default {
-  name: "gw-approve-follow"
+  name: 'BlankLayout'
 }
 </script>
 

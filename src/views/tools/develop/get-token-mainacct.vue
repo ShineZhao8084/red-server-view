@@ -1,10 +1,10 @@
 <template>
-  get-token-mainacct
+  sql-generator
 </template>
 
 <script>
 export default {
-  name: "get-token-mainacct"
+  name: "sql-generator"
 }
 </script>
 

@@ -1,12 +1,10 @@
 <template>
-  sql-generator
-  上传excel，
+  dashboard
 </template>
 
 <script>
-import * as XLSX from 'xlsx';
 export default {
-  name: "sql-generator"
+  name: "dashboard"
 }
 </script>
 
